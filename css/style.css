@@ -349,3 +349,10 @@ section h2
 {
     background-color: #662d01;
 }
+footer
+{
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+    background-color: #bea300;
+}
